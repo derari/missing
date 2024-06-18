@@ -2526,7 +2526,7 @@
 }
 
 @media (prefers-color-scheme: dark) {
-  .missing-css :not(.-no-dark-theme) {
+  .missing-css:not(.-no-dark-theme) {
     --fg: var(--gray-0);
     --muted-fg: var(--gray-2);
     --faded-fg: var(--gray-7);
